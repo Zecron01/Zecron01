@@ -2,6 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello&reversal=false&textBg=false&fontAlign=50&fontSize=0&animation=twinkling"/>
 </p>
 <h3 align="center">A passionate backend developer from Turkey</h3>
+
+```yaml
+  name: "Arda Dirlik"
+  located_in: "Turkey"
+  fields_of_interest: [
+    "Web Design",
+    "Fivem Scripts",
+    "UI Design",
+    "Security Systems"i
+  ]
+```
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zecron01&label=Profile%20views&color=0e75b6&style=flat" alt="zecron01" />
 </p> 
