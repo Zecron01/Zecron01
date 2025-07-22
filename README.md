@@ -17,9 +17,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zecron01&label=Profile%20views&color=0e75b6&style=flat" alt="zecron01" />
 </p> 
-- [Fivem TR Metrics](metrics.zcnworkshop.com) 
-- [Fivem TR List](fivem.zcnworkshop.com) 
-- [Main Site](zcnworkshop.com) 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/arda.0930" target="blank">
